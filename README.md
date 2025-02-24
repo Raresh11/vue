@@ -1,4 +1,4 @@
-Hi There.
+Hi There again.
 
 ## Vue 2 has reached End of Life
 
